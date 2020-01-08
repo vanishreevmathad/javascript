@@ -1,0 +1,10 @@
+<html>
+<head>
+  <script>
+   alert("Hello")
+   </script>
+   </head>
+   <body>
+   World
+   </body>
+   </html>
